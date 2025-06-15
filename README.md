@@ -1,4 +1,4 @@
-# Network Files System
+# Network File System
 Consists of three major components `Client` `Storage server` `Naming server`
 
 ## Table of Contents
